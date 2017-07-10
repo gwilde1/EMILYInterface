@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EMILY.iml" filepath="$PROJECT_DIR$/EMILY.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Dropbox/2017_spring/robotics/COS-635-AI-Robotics-Project/EMILY/EMILY.iml" filepath="$USER_HOME$/Documents/Dropbox/2017_spring/robotics/COS-635-AI-Robotics-Project/EMILY/EMILY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Dropbox/2017_spring/robotics/COS-635-AI-Robotics-Project/EMILY/app/app.iml" filepath="$USER_HOME$/Documents/Dropbox/2017_spring/robotics/COS-635-AI-Robotics-Project/EMILY/app/app.iml" />
+    </modules>
+  </component>
+</project>

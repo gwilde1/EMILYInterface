@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <dimen name="screen_width">2560dp</dimen>
+    <dimen name="screen_height">1600dp</dimen>
+
+    <dimen name="item_width">1600dp</dimen>
+    <dimen name="item_height">1600dp</dimen>
+
+</resources>

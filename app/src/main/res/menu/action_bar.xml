@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/camera_id"
+        android:title="camera"
+        android:icon="@drawable/camera_48"
+        app:showAsAction="always"></item>
+    <item
+        android:id="@+id/map_id"
+        android:title="map"
+        android:icon="@drawable/map_48"
+        app:showAsAction="always"></item>
+
+    <item
+        android:id="@+id/config_id"
+        android:title="config"
+        android:icon="@drawable/ic_settings_black_24dp"
+        app:showAsAction="always"></item>
+
+    <item
+        android:id="@+id/connect_id"
+        android:title="connect"
+        android:icon="@drawable/disconnected_48"
+        app:showAsAction="always"></item>
+    <item
+        android:id="@+id/statusTextview"
+        android:actionViewClass="android.widget.TextView"
+        android:showAsAction="always"
+        android:title="Disconected" />
+
+
+</menu>

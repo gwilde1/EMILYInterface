@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">EMILY</string>
+    <string name="arm">ARM/DISARM</string>
+    <string-array name="armedDisarmed_array">
+        <item>ARM</item>
+        <item>DISARM</item>
+    </string-array>
+    <string-array name="mode_array">
+        <item>Manual</item>
+        <item>LEARNING</item>
+        <item>STEERING</item>
+        <item>HOLD</item>
+        <item>Auto</item>
+        <item>RTL</item>
+        <item>Guided</item>
+    </string-array>
+
+
+</resources>
+
+
